@@ -181,8 +181,4 @@ python main.py
 * Authentication
 * Save history
 
----
 
-## ⭐ Support
-
-If you found this useful, consider giving it a ⭐ on GitHub!
